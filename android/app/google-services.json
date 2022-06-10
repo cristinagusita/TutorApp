@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482617144076",
+    "project_id": "tutor-app-dd2da",
+    "storage_bucket": "tutor-app-dd2da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482617144076:android:a84226a92af52105488f29",
+        "android_client_info": {
+          "package_name": "com.example.tutor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482617144076-g1ubugobo5qga3dglv3ra8noggt6v4vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXSQ9c3W_quw0bEnc1uGT69V2n5Rx5IQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482617144076-g1ubugobo5qga3dglv3ra8noggt6v4vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
